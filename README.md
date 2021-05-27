@@ -1,4 +1,4 @@
-# Geely_Automobiles_Price_Prediction-Linear_Regression
+# Geely Automobiles Price Prediction Linear Regression
 
 Problem Statement
 This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of car prices. You will need to submit a Jupyter notebook for the same. 
